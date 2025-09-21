@@ -1,0 +1,13 @@
+{
+  "name": "lerning-javascript",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "¡Bienvenido/a al curso de **JavaScript**! Este repositorio está diseñado para enfocarse en la práctica y en ejemplos que te ayudarán a desarrollar tu lógica de programación.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
